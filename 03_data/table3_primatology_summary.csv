@@ -1,0 +1,11 @@
+Study,Species,N,Paradigm,Key_Finding,P_Value,Effect_Size
+Jensen et al. 2007,Pan troglodytes,11,Ultimatum Game,5-14% rejection vs 50% humans,<0.001,Large
+Riedl et al. 2012,Pan troglodytes,13,Theft paradigm,0% third-party punishment,<0.046,Z=1.995
+Leimgruber et al. 2016,Cebus apella,6,Inequity punishment,25.7% punishment (intention-blind),<0.001,χ²=23.56
+Surbeck et al. 2025,Pan paniscus,6_communities,Coalition formation,85% coalitions female→male,<0.001,β=0.762
+Preuschoft et al. 2002,Pan troglodytes,16,Reconciliation,CCT=41.2% (SD=12.8%),<0.001,N/A
+Clay & de Waal 2013,Pan paniscus,36,Reconciliation,CCT=22.31% (SD=23.57%),<0.001,Z=3.99
+Weaver & de Waal 2003,Cebus apella,24,Reconciliation,CCT=50% (infants),<0.001,R²=0.50
+Melis et al. 2006,Pan troglodytes,Variable,Partner choice,Prefer skillful-generous partners,<0.05,N/A
+Bullinger et al. 2011,Pan troglodytes,Pairs,Stag Hunt,~90% cooperation with partner,N/A,N/A
+Boesch 1994,Pan troglodytes,Field,Meat sharing,83% bystanders receive meat,N/A,N/A
