@@ -1,21 +1,47 @@
-# Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms
+# Before the Command Was Spoken: Evolutionary Foundations of Law
 
 [![DOI](https://img.shields.io/badge/SSRN-Paper-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Abstract
+## Overview
 
-This repository contains replication materials for the paper "Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms" by Ignacio Adrián Lerer.
+This repository contains replication materials for **two companion papers** on the evolutionary foundations of law by Ignacio Adrián Lerer:
+
+### Paper 1: Before the Command Was Spoken
+**Subtitle**: *Law as the Extended Phenotype of Pre-Linguistic Norms*
 
 **Core Thesis**: Law is not a human invention *ex nihilo*, but the extended phenotype of pre-linguistic normative patterns that evolved to stabilize cooperation in early human groups.
 
-**Citation**: Lerer, I. A. (2025). Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms. *SSRN Working Paper*. [Add SSRN link when available]
+**Status**: Completed. SSRN Working Paper [Add link when available]
+
+**Target Audience**: Evolutionary biologists, anthropologists, archaeologists, legal theorists
+
+---
+
+### Paper 2: Resolving Kelsen's Paradox
+**Subtitle**: *How Evolutionary Biology Explains the Grundnorm*
+
+**Core Thesis**: Hans Kelsen's "presupposed" Grundnorm (basic norm) is not a transcendental presupposition but an evolutionarily inherited predisposition for norm-following. Converging evidence from primatology, archaeology, developmental psychology, and neuroscience shows normative cognition predates linguistic articulation by millions of years.
+
+**Status**: Complete outline (90KB, 80-85 pages planned). Literature review phase.
+
+**Target Journals**: *Philosophy & Public Affairs*, *Legal Theory* (Cambridge), *Oxford Journal of Legal Studies*
+
+**Target Audience**: Legal philosophers, Kelsen scholars, analytical jurisprudence community
+
+---
+
+**Citation (Paper 1)**: Lerer, I. A. (2025). Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms. *SSRN Working Paper*. [Add SSRN link when available]
+
+**Citation (Paper 2)**: Lerer, I. A. (In preparation). Resolving Kelsen's Paradox: How Evolutionary Biology Explains the Grundnorm.
 
 ---
 
 ## Repository Contents
 
-### 📊 Systematic Reviews (`01_systematic_reviews/`)
+### Paper 1: Empirical Origins (`paper1_empirical_origins/`)
+
+#### 📊 Systematic Reviews (`01_systematic_reviews/`)
 Five comprehensive literature reviews covering:
 1. **Third-Party Punishment** in chimpanzees (N=46 across 4 studies)
 2. **Reconciliation Rituals** in primates (Pan, Cebus species)
@@ -23,21 +49,54 @@ Five comprehensive literature reviews covering:
 4. **Mortuary Archaeology** (35,000 years, 3,902 burials analyzed)
 5. **Free-Rider Punishment** experiments (capuchin monkeys)
 
-### 🔗 Synthesis Documents (`02_synthesis/`)
+#### 🔗 Synthesis Documents (`02_synthesis/`)
 - Cross-PROMPT integration analysis (PROMPTs 1-4)
 - PROMPT 5 integration guide
 - Complete systematic review status report
 
-### 📈 Data (`03_data/`)
+#### 📈 Data (`03_data/`)
 Quantitative tables with:
 - Primatological sample sizes and statistical tests
 - Temporal evolution of burial practices (Paleolithic → Neolithic)
 - Comparative enforcement mechanisms across species
 
-### 📚 Supplementary Materials (`05_supplementary/`)
+#### 📚 Supplementary Materials (`05_supplementary/`)
 - Complete bibliography (BibTeX format)
 - Operationalized testable predictions
 - Replication instructions
+
+---
+
+### Paper 2: Kelsen's Grundnorm (`paper2_kelsen_grundnorm/`)
+
+#### 📝 Outline (`01_outline/`)
+- Complete 90KB paper outline (80-85 pages planned)
+- Extended abstract (500 words)
+- 9-section detailed structure
+- 44-week writing timeline with milestones
+
+#### 📚 Literature Review (`02_literature_review/`)
+*(To be populated during Phase 1)*
+- Kelsen primary sources (1934, 1945, 1960, 1967 editions)
+- Post-Kelsen responses (Hart, Raz, Alexy, Dworkin, Finnis)
+- Contemporary Kelsen scholarship
+
+#### 🧩 Argument Development (`03_argument_development/`)
+*(To be populated during Phase 2)*
+- Grundnorm paradox formalization
+- Evolutionary resolution detailed arguments
+- Objections and responses
+
+#### 🔬 Evidence (`04_evidence/`)
+*(To be populated during Phase 1-2)*
+- Developmental psychology (Hamann et al. 2011, Vaish et al. 2011)
+- Neuroscience (Moll et al. 2008, Sanfey et al. 2003)
+- Cross-references to Paper 1 evidence
+
+#### 📖 Supplementary (`05_supplementary/`)
+- Target journals with competitive positioning
+- Complete bibliography (Kelsen + evolutionary biology)
+- Success metrics and risk mitigation
 
 ---
 
@@ -66,13 +125,26 @@ Quantitative tables with:
 ## Theoretical Framework
 
 **Extended Phenotype Theory (EPT)** applied to law:
-- Proto-norms predated prescriptive language
-- Deontic modality (must, may, should) universal in all natural languages
+- **Paper 1 contribution**: Demonstrates proto-norms predated prescriptive language using four evidence streams
+- **Paper 2 contribution**: Resolves Hans Kelsen's Grundnorm paradox by showing the "presupposed" basic norm is actually an evolutionarily inherited predisposition
+
+### Key Mechanisms
+- Proto-norms enforced through partner choice, coalitions, punishment
+- Deontic modality (must, may, should) universal across languages—emerged to scale cooperation beyond Dunbar's number (~150)
 - Legal institutions are extended phenotypes of competing memeplexes
-- Validates 3 previously unexplained anomalies:
+- Normative "ought-feeling" has phylogenetically ancient neural basis (vmPFC, anterior insula)
+
+### Validated Anomalies (Paper 1)
+EPT explains 3 previously unexplained patterns:
   1. 19th Amendment functional extinction (93.3% citation collapse)
   2. Argentina's 93-year fiscal lock-in without constitutional authorization
   3. International law multi-arena forum shopping (73.3% of cases)
+
+### Resolved Paradoxes (Paper 2)
+EPT resolves Kelsen's 80-year-old problem:
+  - **Kelsen's claim**: Grundnorm is presupposed as transcendental condition for legal cognition
+  - **Our resolution**: Grundnorm is evolutionarily inherited predisposition, not presupposition
+  - **Evidence**: Normativity predates language by millions of years (phylogeny) and years (ontogeny)
 
 ---
 
