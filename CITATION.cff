@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset or code, please cite the relevant paper(s) below."
 authors:
   - family-names: Lerer
     given-names: Ignacio Adrián
-    orcid: https://orcid.org/0000-0000-0000-0000
-title: "Replication Materials: Before the Command Was Spoken"
-version: 1.0.0
+    orcid: https://orcid.org/0009-0007-6378-9749
+title: "Replication Materials: Before the Command Was Spoken (Two Companion Papers)"
+version: 2.0.0
 date-released: 2025-11-02
 url: "https://github.com/adrianlerer/Before-the-Command-Was-Spoken"
 repository-code: "https://github.com/adrianlerer/Before-the-Command-Was-Spoken"
@@ -17,4 +17,38 @@ keywords:
   - archaeology
   - deontic modality
   - proto-normativity
+  - Hans Kelsen
+  - Grundnorm
+  - evolutionary jurisprudence
 license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Lerer
+        given-names: Ignacio Adrián
+        orcid: https://orcid.org/0009-0007-6378-9749
+    title: "Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms"
+    year: 2025
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5695662"
+    abstract: "Law is not a human invention ex nihilo, but the extended phenotype of pre-linguistic normative patterns that evolved to stabilize cooperation in early human groups."
+    keywords:
+      - extended phenotype
+      - proto-normativity
+      - legal evolution
+      - primatology
+      - archaeology
+  - type: article
+    authors:
+      - family-names: Lerer
+        given-names: Ignacio Adrián
+        orcid: https://orcid.org/0009-0007-6378-9749
+    title: "The Grundnorm as Evolutionary Inheritance: Resolving Kelsen's Paradox Through Extended Phenotype Theory"
+    year: 2025
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696484"
+    abstract: "Hans Kelsen's presupposed Grundnorm is not a transcendental presupposition but an evolutionarily inherited predisposition for norm-following. Converging evidence from primatology, archaeology, developmental psychology, and neuroscience shows normative cognition predates linguistic articulation by millions of years."
+    keywords:
+      - Hans Kelsen
+      - Grundnorm
+      - evolutionary jurisprudence
+      - multilevel selection
+      - proto-norms

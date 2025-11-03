@@ -1,6 +1,7 @@
 # Before the Command Was Spoken: Evolutionary Foundations of Law
 
-[![DOI](https://img.shields.io/badge/SSRN-Paper-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXXXX)
+[![Paper 1](https://img.shields.io/badge/SSRN-Paper%201-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5695662)
+[![Paper 2](https://img.shields.io/badge/SSRN-Paper%202-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696484)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -12,28 +13,34 @@ This repository contains replication materials for **two companion papers** on t
 
 **Core Thesis**: Law is not a human invention *ex nihilo*, but the extended phenotype of pre-linguistic normative patterns that evolved to stabilize cooperation in early human groups.
 
-**Status**: Completed. SSRN Working Paper [Add link when available]
+**Status**: ✅ Published on SSRN (November 2025)
+
+**SSRN Link**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5695662
 
 **Target Audience**: Evolutionary biologists, anthropologists, archaeologists, legal theorists
 
 ---
 
-### Paper 2: Resolving Kelsen's Paradox
-**Subtitle**: *How Evolutionary Biology Explains the Grundnorm*
+### Paper 2: The Grundnorm as Evolutionary Inheritance
+**Subtitle**: *Resolving Kelsen's Paradox Through Extended Phenotype Theory*
 
 **Core Thesis**: Hans Kelsen's "presupposed" Grundnorm (basic norm) is not a transcendental presupposition but an evolutionarily inherited predisposition for norm-following. Converging evidence from primatology, archaeology, developmental psychology, and neuroscience shows normative cognition predates linguistic articulation by millions of years.
 
-**Status**: Complete outline (90KB, 80-85 pages planned). Literature review phase.
+**Status**: ✅ Published on SSRN (November 2025)
 
-**Target Journals**: *Philosophy & Public Affairs*, *Legal Theory* (Cambridge), *Oxford Journal of Legal Studies*
+**SSRN Link**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696484
+
+**Length**: 14,467 words (publication-ready)
+
+**Target Journals**: *Legal Theory* (Cambridge), *Philosophy & Public Affairs*, *Oxford Journal of Legal Studies*
 
 **Target Audience**: Legal philosophers, Kelsen scholars, analytical jurisprudence community
 
 ---
 
-**Citation (Paper 1)**: Lerer, I. A. (2025). Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms. *SSRN Working Paper*. [Add SSRN link when available]
+**Citation (Paper 1)**: Lerer, I. A. (2025). Before the Command Was Spoken: Law as the Extended Phenotype of Pre-Linguistic Norms. *SSRN Working Paper No. 5695662*. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5695662
 
-**Citation (Paper 2)**: Lerer, I. A. (In preparation). Resolving Kelsen's Paradox: How Evolutionary Biology Explains the Grundnorm.
+**Citation (Paper 2)**: Lerer, I. A. (2025). The Grundnorm as Evolutionary Inheritance: Resolving Kelsen's Paradox Through Extended Phenotype Theory. *SSRN Working Paper No. 5696484*. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696484
 
 ---
 
